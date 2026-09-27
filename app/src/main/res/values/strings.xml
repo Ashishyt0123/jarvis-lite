@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis Lite</string>
+    <string name="accessibility_service_description">Lets Jarvis Lite read your screen and tap/type on your behalf when you ask it to control the phone.</string>
+</resources>
